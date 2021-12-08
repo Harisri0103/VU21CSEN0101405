@@ -15,7 +15,7 @@ int main(){
     scanf("%f",&e);
     g=(a+b+c+d+e);
     f=(a+b+c+d+e)/5;
-    i=((a+b+c+d+e)/h)*100;
+    i=((a+b+c+d+e)/500)*100;
     printf("Percentage = %f",i);
     printf("\nTotal Marks= %.2f \n",g);
     printf("Average of 5 Subjects= %f",f);
