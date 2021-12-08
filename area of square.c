@@ -3,8 +3,8 @@
 int main() {
 
 
- printf("\n--Finding area of a sqaure--" );
-            //area of sqare = side * side
+ printf("\n--Finding area of a square--" );
+            //area of square = side * side
            
             float s, area;
             printf("\nEnter length of side of square: ");
